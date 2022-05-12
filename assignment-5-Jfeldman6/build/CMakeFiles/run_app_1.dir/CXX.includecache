@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jovyan/assignment-5-Jfeldman6/app_1/main_1.cpp
+iostream
+-
+cmath
+-
+iomanip
+-
+../code_1/WordDecoder.hpp
+/home/jovyan/assignment-5-Jfeldman6/code_1/WordDecoder.hpp
+
+/home/jovyan/assignment-5-Jfeldman6/code_1/WordDecoder.hpp
+iostream
+-
+

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jovyan/assignment-2-Jfeldman6/app_1/main_1.cpp
+iostream
+-
+fstream
+-
+../code_1/array_double.hpp
+/home/jovyan/assignment-2-Jfeldman6/code_1/array_double.hpp
+
+/home/jovyan/assignment-2-Jfeldman6/code_1/array_double.hpp
+string
+-
+iostream
+-
+fstream
+-
+iomanip
+-
+

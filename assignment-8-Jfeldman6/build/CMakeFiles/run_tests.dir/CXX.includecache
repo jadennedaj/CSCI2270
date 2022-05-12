@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jovyan/assignment-8-Jfeldman6/code_1/Graph.cpp
+Graph.hpp
+/home/jovyan/assignment-8-Jfeldman6/code_1/Graph.hpp
+vector
+-
+queue
+-
+iostream
+-
+
+/home/jovyan/assignment-8-Jfeldman6/code_1/Graph.hpp
+vector
+-
+iostream
+-
+

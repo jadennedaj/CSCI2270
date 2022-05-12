@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jovyan/assignment-1-Jfeldman6/app_2/main_2.cpp
+iostream
+-
+fstream
+-
+../code_2/fundamentals_2.hpp
+/home/jovyan/assignment-1-Jfeldman6/code_2/fundamentals_2.hpp
+sstream
+-
+string
+-
+
+/home/jovyan/assignment-1-Jfeldman6/code_2/fundamentals_2.hpp
+string
+-
+iostream
+-
+fstream
+-
+

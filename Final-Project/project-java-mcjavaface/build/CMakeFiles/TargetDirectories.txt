@@ -1,0 +1,5 @@
+/home/jovyan/project-java-mcjavaface/build/CMakeFiles/rebuild_cache.dir
+/home/jovyan/project-java-mcjavaface/build/CMakeFiles/edit_cache.dir
+/home/jovyan/project-java-mcjavaface/build/CMakeFiles/test.dir
+/home/jovyan/project-java-mcjavaface/build/CMakeFiles/run_app_1.dir
+/home/jovyan/project-java-mcjavaface/build/CMakeFiles/run_tests.dir

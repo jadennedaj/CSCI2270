@@ -1,0 +1,1 @@
+Array of evens: 2 2 0 0 0 (length = 5)

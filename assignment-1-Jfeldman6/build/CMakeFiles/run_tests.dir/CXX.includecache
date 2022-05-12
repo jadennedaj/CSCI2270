@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jovyan/assignment-1-Jfeldman6/code_1/fundamentals_1.cpp
+fundamentals_1.hpp
+/home/jovyan/assignment-1-Jfeldman6/code_1/fundamentals_1.hpp
+
+/home/jovyan/assignment-1-Jfeldman6/code_1/fundamentals_1.hpp
+string
+-
+iostream
+-
+fstream
+-
+

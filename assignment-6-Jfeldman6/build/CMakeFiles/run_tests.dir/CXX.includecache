@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jovyan/assignment-6-Jfeldman6/code_1/MovieTree.cpp
+MovieTree.hpp
+/home/jovyan/assignment-6-Jfeldman6/code_1/MovieTree.hpp
+iostream
+-
+string
+-
+fstream
+-
+sstream
+-
+
+/home/jovyan/assignment-6-Jfeldman6/code_1/MovieTree.hpp
+iostream
+-
+string
+-
+fstream
+-
+cstring
+-
+sstream
+-
+

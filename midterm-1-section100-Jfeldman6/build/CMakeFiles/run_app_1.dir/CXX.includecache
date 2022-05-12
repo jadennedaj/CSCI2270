@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jovyan/midterm-1-section100-Jfeldman6/code_1/LinkedList.cpp
+LinkedList.hpp
+/home/jovyan/midterm-1-section100-Jfeldman6/code_1/LinkedList.hpp
+iostream
+-
+LinkedList.hpp
+/home/jovyan/midterm-1-section100-Jfeldman6/code_1/LinkedList.hpp
+
+/home/jovyan/midterm-1-section100-Jfeldman6/code_1/LinkedList.hpp
+

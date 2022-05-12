@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jovyan/assignment-4-Jfeldman6/code_1/CUSatelliteNetwork.cpp
+CUSatelliteNetwork.hpp
+/home/jovyan/assignment-4-Jfeldman6/code_1/CUSatelliteNetwork.hpp
+iostream
+-
+fstream
+-
+cstdlib
+-
+string
+-
+
+/home/jovyan/assignment-4-Jfeldman6/code_1/CUSatelliteNetwork.hpp
+iostream
+-
+

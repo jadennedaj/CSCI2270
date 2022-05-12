@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jovyan/assignment-5-Jfeldman6/app_2/main_2.cpp
+../code_2/WaitlistQueue.hpp
+/home/jovyan/assignment-5-Jfeldman6/code_2/WaitlistQueue.hpp
+iostream
+-
+
+/home/jovyan/assignment-5-Jfeldman6/code_2/WaitlistQueue.hpp
+string
+-
+iostream
+-
+

@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jovyan/assignment-0-Jfeldman6/code_1/functions.cpp
+functions.hpp
+/home/jovyan/assignment-0-Jfeldman6/code_1/functions.hpp
+
+/home/jovyan/assignment-0-Jfeldman6/code_1/functions.hpp
+string
+-
+iostream
+-
+fstream
+-
+
+/home/jovyan/assignment-0-Jfeldman6/tests/test_preview.cpp
+gtest/gtest.h
+-
+../code_1/functions.hpp
+/home/jovyan/assignment-0-Jfeldman6/code_1/functions.hpp
+fstream
+-
+iostream
+-
+string
+-
+cmath
+-
+array
+-
+vector
+-
+
